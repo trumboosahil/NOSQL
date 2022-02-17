@@ -15,6 +15,12 @@ Cassandra
 ## Graph Database
 
 
+## Choosing a partition key
+
+1. High Cardinality
+2. Even distribution
+
+
 ![1_RkrLPb6BAkPgL0wkqn-Hgg](https://user-images.githubusercontent.com/3725274/154562965-b94875ab-a09a-490b-ba2d-2ec41b3f9a1a.png)
 
 
