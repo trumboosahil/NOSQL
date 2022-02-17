@@ -20,6 +20,11 @@ Cassandra
 1. High Cardinality
 2. Even distribution
 
+## Avoid Choosing a partition key
+1. Low Cardinality
+2. Hot partition ( All load to one node)
+3. Large partition
+
 
 ![1_RkrLPb6BAkPgL0wkqn-Hgg](https://user-images.githubusercontent.com/3725274/154562965-b94875ab-a09a-490b-ba2d-2ec41b3f9a1a.png)
 
