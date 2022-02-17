@@ -22,3 +22,4 @@ https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56
 
 ![image](https://user-images.githubusercontent.com/3725274/154566457-0bcf7059-8045-4384-96f0-904c85db545d.png)
 
+![image](https://user-images.githubusercontent.com/3725274/154567202-bf5556d2-1341-43fe-8b1e-38a12c6d092c.png)
